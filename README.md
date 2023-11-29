@@ -13,6 +13,7 @@ This framework helps in modifying images and preparing them for the future stick
 
 ## How to install StickerTool?
 Use _Swift Package Manager_: from https://github.com/lizzzuhaaa/StickerToolFramework
+
 Use _CocoaPods_: pod 'StickerTool' from https://github.com/lizzzuhaaa/StickerTool-Framework
 
 ## Instructions for the future usage
